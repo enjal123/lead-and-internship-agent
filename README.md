@@ -1,9 +1,5 @@
 # 🚀 AI Outreach & Internship Discovery Agent
 
-<img width="1061" height="363" alt="Screenshot 2026-07-23 125711" src="https://github.com/user-attachments/assets/75b96912-8186-4ae4-a60a-db79e58ae90b" />
-<img width="1127" height="421" alt="Screenshot 2026-07-22 172308" src="https://github.com/user-attachments/assets/6aa5d9eb-d0e1-43ec-8b3e-3b3709ac7350" />
-<img width="795" height="379" alt="Screenshot 2026-07-22 172258" src="https://github.com/user-attachments/assets/092f6283-1128-4d8d-aaf7-a46eba1d0dbd" />
-<img width="1080" height="409" alt="Screenshot 2026-07-22 172237" src="https://github.com/user-attachments/assets/3928bba3-db9a-4d4e-a302-2fcf4036b190" />
 
 An AI-powered, multi-agent automation system that streamlines two traditionally time-consuming workflows:
 
@@ -11,6 +7,11 @@ An AI-powered, multi-agent automation system that streamlines two traditionally 
 2. **Internship Discovery** – Search for relevant internship opportunities, evaluate how well they match a candidate's background, and automatically tailor resumes for high-quality applications.
 
 The entire system is designed to run **locally**, leveraging a locally hosted LLM through **Ollama** and free web search providers. No paid AI or search APIs are required.
+
+<img width="1080" height="409" alt="Screenshot 2026-07-22 172237" src="https://github.com/user-attachments/assets/3928bba3-db9a-4d4e-a302-2fcf4036b190" />
+
+<img width="1127" height="421" alt="Screenshot 2026-07-22 172308" src="https://github.com/user-attachments/assets/6aa5d9eb-d0e1-43ec-8b3e-3b3709ac7350" />
+
 
 ---
 
@@ -44,6 +45,10 @@ The entire system is designed to run **locally**, leveraging a locally hosted LL
 - Scores internship fit.
 - Automatically tailors resumes for strong matches.
 - Stores all opportunities in a searchable local database.
+
+
+<img width="1061" height="363" alt="Screenshot 2026-07-23 125711" src="https://github.com/user-attachments/assets/75b96912-8186-4ae4-a60a-db79e58ae90b" />
+<img width="795" height="379" alt="Screenshot 2026-07-22 172258" src="https://github.com/user-attachments/assets/092f6283-1128-4d8d-aaf7-a46eba1d0dbd" />
 
 ---
 
