@@ -1,0 +1,33 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Database / generated data
+*.db
+data/chroma/*
+!data/chroma/.gitkeep
+data/businesses/*
+!data/businesses/.gitkeep
+data/internships/*
+!data/internships/.gitkeep
+
+# Generated resumes (personal output, not source)
+resume/generated/*
+!resume/generated/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

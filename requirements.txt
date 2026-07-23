@@ -1,0 +1,8 @@
+langchain-ollama
+sentence-transformers
+chromadb
+beautifulsoup4
+requests
+python-dotenv
+tqdm
+pytest

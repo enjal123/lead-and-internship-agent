@@ -1,0 +1,25 @@
+# Paste your own resume text below (plain text is fine).
+#
+# This file is intentionally a blank template -- it's what the resume
+# agent (agents/resume_agent.py) reads and tailors per internship
+# posting. Delete these comment lines once you've added your content.
+#
+# Suggested structure:
+#
+# YOUR NAME
+# your.email@example.com | yourwebsite.com | github.com/yourusername
+#
+# EDUCATION
+# School, degree, expected graduation
+#
+# EXPERIENCE
+# Company/project — role — dates
+# - Bullet describing impact and technologies used
+#
+# PROJECTS
+# Project name — one-line description
+# - Bullet describing what you built and with what
+#
+# SKILLS
+# Languages: ...
+# Frameworks/Tools: ...
